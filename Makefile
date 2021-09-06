@@ -6,6 +6,6 @@ Holst\ -\ A\ Fugal\ Overture.pdf : full_score.pdf cover.pdf
 	# cat temp.pdf label_end.bin > "Holst - A Fugal Overture.pdf"
 	# rm temp.pdf
 
-release.zip:
+release.zip: Holst\ -\ A\ Fugal\ Overture.pdf parts/*.pdf
 	rm release.zip || true
 	7z a release.zip "Holst - A Fugal Overture.pdf" parts/*.pdf
