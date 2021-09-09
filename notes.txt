@@ -4,6 +4,7 @@ Measure 86 clarinet 2, D instead of D#
 Measure 91 flutes F# insteaad of F
 
 Move in pdf file:
+Measure 23 violin II part lower tie
 Measure 85 oboe rest
 Measure 93 bassoon rest
 Trombone 3 part last system barlines
